@@ -29,6 +29,9 @@ Launched Gophish
 <img width="1078" height="685" alt="Screenshot 2026-09-06 190537" src="https://github.com/user-attachments/assets/0731597a-71ba-42b3-beba-dfe229e6e68e" />
 
 
+<img width="1366" height="768" alt="Screenshot 2026-09-05 221115" src="https://github.com/user-attachments/assets/2eed15b9-ea13-41b4-8dcd-ded033c43d27" />
+
+
 
 Retrieved the auto-generated admin credentials from the terminal output and logged into the admin panel at https://127.0.0.1:3333
 

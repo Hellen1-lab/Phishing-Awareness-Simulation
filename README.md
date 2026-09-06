@@ -78,6 +78,10 @@ Embedded Gophish's tracking variable ({{.URL}}) to generate the unique tracked l
 Enabled the tracking pixel to log email opens.
 
 
+<img width="1301" height="668" alt="Screenshot 2026-09-06 192810" src="https://github.com/user-attachments/assets/45e1bbb4-f855-45c7-8f89-87b3568884d4" />
+
+
+
 Step 5: Target Group
 
 

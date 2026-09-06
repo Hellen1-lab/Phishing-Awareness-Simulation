@@ -26,6 +26,9 @@ Extracted the binary and made it executable
 
 Launched Gophish
 
+<img width="1078" height="685" alt="Screenshot 2026-09-06 190537" src="https://github.com/user-attachments/assets/0731597a-71ba-42b3-beba-dfe229e6e68e" />
+
+
 
 Retrieved the auto-generated admin credentials from the terminal output and logged into the admin panel at https://127.0.0.1:3333
 

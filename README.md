@@ -92,3 +92,9 @@ Verified email delivery, then manually interacted with the email as a target wou
 
 
 Full details are captured in the "PHISHING AWARENESS SIMULATION" File.
+
+
+
+
+<img width="678" height="480" alt="Screenshot 2026-09-06 193610" src="https://github.com/user-attachments/assets/9b40853a-fb8a-4936-91b1-123bbe633c23" />
+

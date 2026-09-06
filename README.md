@@ -85,20 +85,4 @@ Launched the campaign, linking the sending profile, template, landing page, and 
 Verified email delivery, then manually interacted with the email as a target would: opened → clicked link → submitted test credentials on the landing page.
 
 
-Step 7: Results & Analysis
-
-
-Step 8: Reporting
-Compiled findings into an end-user security awareness report covering:
-Executive summary of the simulation
-Methodology and tools used
-Quantified results
-Red-flag indicators that should have prompted suspicion
-Actionable recommendations (MFA, password managers, reporting culture, verification habits)
-Key Learnings
-Hands-on experience with a real phishing simulation platform used in industry
-Practical exposure to SMTP configuration, DNS troubleshooting, and VM networking issues
-Understanding of the full attack lifecycle from an attacker's tooling perspective
-Ability to translate technical results into a report actionable by non-technical end users
-Ethical Note
-This simulation was conducted entirely against my own accounts and infrastructure, with no third-party targets, in a private/local test environment. No real credentials were collected at any point.
+Full details are captured in the "PHISHING AWARENESS SIMULATION" File.

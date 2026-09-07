@@ -50,14 +50,18 @@ Generated a Gmail App Password (required since Gmail blocks third-party app logi
 
 Validated the profile with Gophish's built-in "Send Test Email" feature.
 
+<img width="1077" height="719" alt="Screenshot 2026-09-06 191353" src="https://github.com/user-attachments/assets/af4f1bb1-4057-45d1-8c93-dc8ce9a5265d" />
 
-Troubleshooting encountered: An initial DNS resolution failure (temporary failure in name resolution) inside the Kali VM blocked outbound SMTP connections. Resolved by restarting the VM and verifying resolution.
 
 
 Step 3: Landing Page
 
 
 Built a simulated login page using a basic HTML form (email + password fields).
+
+
+<img width="1353" height="748" alt="Screenshot 2026-09-06 192828" src="https://github.com/user-attachments/assets/b3b9639d-9fc8-4c7f-b44b-0705f4b8e70e" />
+
 
 
 Enabled Capture Submitted Data and Capture Passwords to log interaction.
@@ -93,6 +97,14 @@ Step 6: Campaign Execution
 
 Launched the campaign, linking the sending profile, template, landing page, and target group
 Verified email delivery, then manually interacted with the email as a target would: opened → clicked link → submitted test credentials on the landing page.
+
+<img width="1024" height="708" alt="Screenshot 2026-09-06 191659" src="https://github.com/user-attachments/assets/15cf6740-cfec-4d26-becb-c06d463cf18e" />
+
+<img width="1302" height="717" alt="Screenshot 2026-09-06 193244" src="https://github.com/user-attachments/assets/8043c943-1faf-4afd-b80b-2a3761f7f0ea" />
+
+<img width="1366" height="707" alt="Screenshot 2026-09-06 191819" src="https://github.com/user-attachments/assets/3449a64c-caa8-4353-9ef4-4fe0bf7ab977" />
+
+
 
 
 Full details are captured in the "PHISHING AWARENESS SIMULATION" File.
